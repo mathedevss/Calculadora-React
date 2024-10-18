@@ -1,6 +1,6 @@
 # Calculadora em React
 
-Esta é uma calculadora simples desenvolvida utilizando **React**. O projeto tem como objetivo demonstrar a criação de uma aplicação funcional com operações básicas de aritmética. É uma ótima maneira de praticar e aprender mais sobre o desenvolvimento de interfaces interativas e responsivas com React.
+Esta é uma calculadora simples desenvolvida utilizando **React**. O projeto tem como objetivo demonstrar a criação de uma aplicação funcional com operações básicas de aritmética. É uma ótima maneira de praticar e aprender mais sobre o desenvolvimento de interfaces interativas com React.
 
 ## Funcionalidades
 
